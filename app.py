@@ -11,7 +11,7 @@ def create_app():
 
     @app.route('/')
     def home():
-        return 'GFG'
+        return 'gfg'
 
     return app
 
