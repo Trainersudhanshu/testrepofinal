@@ -11,7 +11,7 @@ def create_app():
 
     @app.route('/')
     def home():
-        return 'GGGG'
+        return 'GGGG';111
 
     return app
 
